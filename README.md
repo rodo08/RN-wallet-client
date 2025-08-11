@@ -20,7 +20,8 @@ A mobile app for personal finance management, built with React Native using Expo
 
 ## Test the App
 
-Use email: rodrigodevAppTests@outlook.com |
-Use password: Devtest2025
+- URL: https://wonderful-daifuku-32519b.netlify.app/
+- Use email: rodrigodevAppTests@outlook.com
+- Use password: Devtest2025
 
 ---
